@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @ Meyun-MUD
 - 👀 I am interested in learning programming languages
-- 🌱 I am currently learning algorithm
+- 🌱 I am currently learning JS, HTML, CSS and algorithm
 - 💞️ I'm looking to collaborate in the IT / DEV area
 - 📫 How to reach me? tt @rafameyun
 
