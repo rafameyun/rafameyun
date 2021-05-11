@@ -31,11 +31,11 @@
         </p>
         <p>
         <p> 💞️ I'm looking to <strong> collaborate in the IT / DEV area</strong< </p>
-         <p> 📫 How to reach me? <strong>TT: @rafameyun or IG: @tech.mey</strong> </p>
+         <p> 📫 How to reach me? <strong>TT: @rafameyun</strong> </p>
             <a href="https://www.linkedin.com/in/rafael-medeiros-9245b01b7/" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/db5c961fd944d76a4ce235b1f6b659a35a47792db5065ee1948917466074fcfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">
             </a>
-            <a href="https://www.instagram.com/billycoding" rel="nofollow">
+            <a href="https://www.instagram.com/tech.mey/" rel="nofollow">
                 <img src="https://camo.githubusercontent.com/9c1f7b0b7a127504f670ac53c47b2d595f78693b95115eb791c8d85afa697dcd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3030373742353f7374796c653d666c6174266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width:100%;">
             </a>
         </p>
