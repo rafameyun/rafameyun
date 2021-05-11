@@ -8,7 +8,7 @@
 </a>
         <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">
             <img class="emoji" alt="sunglasses" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">
-        </g-emoji> Hello, I'm @Meyun!
+        </g-emoji> Hello, I'm @rafameyun!
     </h1>
         <p>
           👀 I'm a <strong>Front-end</strong> developer
