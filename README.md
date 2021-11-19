@@ -22,7 +22,7 @@
         <p>
             <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
                 <img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
-            </g-emoji> Current learning <strong>JS, HTML, CSS and a bit of C</strong>
+            </g-emoji> Current learning <strong>JS, HTML, CSS and SASS</strong>
         </p>
         <p>
             <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">
